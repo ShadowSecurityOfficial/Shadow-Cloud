@@ -34,7 +34,7 @@ https://code.visualstudio.com/
 ```
 # Requesting a distribution
 
-If you would like a distribution to be added to Shadow-Linux please request it by opening an issue on GitHub and explaining why it would be of value to Shadow-Linux. Please note we only add projects from distrowatch for security reasons.
+If you would like a feature to be added to Shadow-Cloud please request it by opening an issue on GitHub and explaining why it would be of value to Shadow-Cloud.
 
 # DISCLAIMER
 
