@@ -21,6 +21,7 @@ https://github.com/jassics/awesome-aws-security
 https://github.com/coffeewithayman/awesome-aws-security
 https://github.com/donnemartin/awesome-aws
 https://aws.amazon.com/free/
+https://www.onworks.net/
 https://replit.com/@BenisBest/Firefox?v=1&outputonly=1&lite=true#main.sh (Replit + Onworks) (Add ?v=1 to go fullscreen)
 https://www.youtube.com/watch?v=lXFsxzxTVxo & https://uptimerobot.com/ (Replit always on)
 https://replit.com/ (Edu Institution Plan Nonprofit)
