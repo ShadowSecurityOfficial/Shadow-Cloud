@@ -11,8 +11,7 @@ Shadow-Cloud is the most hi-tech ethical hacking cloud setup. Shadow-Cloud is a 
 ```
 https://yunohost.org/#/
 https://caprover.com/
-https://github.com/anyuzu99/heroku-miniflux/tree/main
-https://github.com/MaybeThisIsRu/awesome-miniflux
+https://www.oracle.com/cloud/free/ (Best Cloud Free Tier Overall)
 https://github.com/ianstormtaylor/awesome-heroku
 https://github.com/donnemartin/awesome-aws
 https://github.com/randyridgley/awesome-aws-research
