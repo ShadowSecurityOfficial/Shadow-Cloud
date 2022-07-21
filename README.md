@@ -1,6 +1,6 @@
 # Shadow-Cloud
 
-Shadow-Cloud is the most hi-tech ethical hacking cloud setup. Shadow-Cloud is a all-encomposing cloud solution for cloud ethical hacking and is part of the larger ShadowSecuritySuite, Shadow-Cloud allows you to run any ethical hacking operating system on one distribution in the cloud.
+Shadow-Cloud is the most hi-tech ethical hacking cloud setup. Shadow-Cloud is a all-encomposing cloud solution for cloud ethical hacking and is part of the larger ShadowSecuritySuite, Shadow-Cloud allows you to run any ethical hacking operating system on one distribution using the cloud.
 
 ㊙️ "The more silent you are, the more you can silence." ㊙️
 
